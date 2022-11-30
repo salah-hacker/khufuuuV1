@@ -8,7 +8,7 @@
 //════════════════════════════//
 //recode kar ke youtube pe upload kar rhe hai ya
 //codes copy kar ke apne script me dal rhe
-//hai to, description me xeon ka yt channel
+//hai to, description me irroy 777
 // ka link paste kr dena as a cradit or github 
 //repo me bhi tag kardena baki jo
 //bhi karna hai apki marzi, thank you!🦄
@@ -54,20 +54,20 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['201121968769'] //ur owner number
-global.ownername = "𝐾𝐻𝐻𝐹𝑈" //ur owner name
-global.ytname = "YT: khufu" //ur yt chanel name
-global.socialm = "o" //ur github or insta name
-global.location = "Egypt" //ur location
+global.vcardowner = ['+212649027695'] //ur owner number
+global.ownername = "salah.hacker" //ur owner name
+global.ytname = "YT: irroy 777" //ur yt chanel name
+global.socialm = "xof xwiya lehih" //ur github or insta name
+global.location = "morocco" //ur location
 
 //bot bomdy 
-global.owner = ['201121968769']
-global.ownertag = '201121968769' //ur tag number
+global.owner = ['+212649027695']
+global.ownertag = '+212649027695' //ur tag number
 
 global.botname = 'ᴹᴿ᭄ Bot Whatsapp ×፝֟͜×' //ur bot name
-global.linkz = "https://youtube.com/channel/UCaWoQPfLiIY4dDp3WeWm7oA" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtube.com/channel/UCaWoQPfLiIY4dDp3WeWm7oA" //ur website to be displayed
-global.botscript = 'https://youtube.com/channel/UCB3Z3phhszGj8FBdaJmIdJQ' //script link
+global.linkz = "https://www.youtube.com/channel/UCqoFQA_fa-9hSgDE9yycrYg" //your theme url which will be displayed on whatsapp
+global.websitex = "https://www.youtube.com/channel/UCqoFQA_fa-9hSgDE9yycrYg" //ur website to be displayed
+global.botscript = 'https://www.youtube.com/channel/UCqoFQA_fa-9hSgDE9yycrYg' //script link
 global.reactmoji = "💗" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "01121968769" //ur sticker watermark packname
@@ -80,7 +80,7 @@ global.err4r = fs.readFileSync("./KhufuMedia/theme/cheemspic.jpg") //ur error pi
 global.thumb = fs.readFileSync("./KhufuMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['201121968769'] //ur premium numbers
+global.premium = ['2+212649027695] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
